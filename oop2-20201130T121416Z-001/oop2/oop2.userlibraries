@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.drewnoakes:metadata-extractor:2.11.0">
+    <archive path="/Users/selimyildiz/.m2/repository/com/drewnoakes/metadata-extractor/2.11.0/metadata-extractor-2.11.0.jar" />
+    <archive path="/Users/selimyildiz/.m2/repository/com/adobe/xmp/xmpcore/5.1.3/xmpcore-5.1.3.jar" />
+  </library>
+  <library name="org.json:json:20140107">
+    <archive path="/Users/selimyildiz/.m2/repository/org/json/json/20140107/json-20140107.jar" />
+  </library>
+</eclipse-userlibraries>
+

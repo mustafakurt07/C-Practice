@@ -1,0 +1,19 @@
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.exe.config
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.exe
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.pdb
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.csprojResolveAssemblyReference.cache
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.Form1.resources
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.Properties.Resources.resources
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.csproj.GenerateResource.Cache
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.exe
+c:\users\halit\documents\visual studio 2013\Projects\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.pdb
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.exe.config
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.exe
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\bin\Debug\MayinTarlasiOrnek.pdb
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.csprojResolveAssemblyReference.cache
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.Form1.resources
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.Properties.Resources.resources
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.csproj.GenerateResource.Cache
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.csproj.CoreCompileInputs.cache
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.exe
+C:\Users\mustafa1\Desktop\MayinTarlasiOrnek\MayinTarlasiOrnek\obj\Debug\MayinTarlasiOrnek.pdb
